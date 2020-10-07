@@ -1,0 +1,7 @@
+Temp/
+Build/
+obj/
+**/*.bin
+**/*.cache
+**/*_cache*
+.idea/
