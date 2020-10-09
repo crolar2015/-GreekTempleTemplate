@@ -1,0 +1,25 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Bamboo Forest
+Author: Laurent MARCUS
+URL: https://poly.google.com/view/8HLJU6tMrfk
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: center island
+Author: Valerie Nyby
+URL: https://poly.google.com/view/8cCe7N7g18y
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: greek temple
+Author: Alex Wasowicz
+URL: https://poly.google.com/view/afaA657WXSH
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: worm
+Author: Thomas Panhorst
+URL: https://poly.google.com/view/7_-PV5AtsYl
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
