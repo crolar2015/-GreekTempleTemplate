@@ -33,8 +33,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 12556}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
