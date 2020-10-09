@@ -3248,7 +3248,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8229628672382105786}
-  - component: {fileID: 7767006713903367609}
   m_Layer: 0
   m_Name: greek_temple_Alex_Wasowicz_afaA657WXSH
   m_TagString: Untagged
@@ -3320,19 +3319,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &7767006713903367609
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7505879680657145619}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec0c7f9abd0af2840a99d45af7227d62, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  asset: {fileID: 11400000, guid: 26f9d2ccf70397f448282c558f7e700c, type: 2}
 --- !u!1 &7907010824769743873
 GameObject:
   m_ObjectHideFlags: 0
