@@ -43,4 +43,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Altspace/Export/template.unity
-  playerPath: C:/Users/crola/Documents/unity3d/unityprojects/crolar template 2/AltspaceTemp/AssetBundles/template.unity2018_1
+  playerPath: C:/Users/crola/Documents/unity3d/unityprojects/GreekTempleTemplate/AltspaceTemp/AssetBundles/template.unity2018_1
