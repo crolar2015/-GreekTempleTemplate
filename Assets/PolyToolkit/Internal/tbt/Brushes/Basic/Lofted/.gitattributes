@@ -1,0 +1,1 @@
+*.{png,mp4,mov,mp3,mpeg,wav,ogg,jpg,jpeg,gif,psd,ai,asset,FBX,fbx,blend,obj,unitypackage,a,exr,tga,zip,dll,aif,ttf,rns,lxo,reason} filter=lfs diff=lfs merge=lfs -text
